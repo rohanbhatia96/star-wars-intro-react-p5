@@ -1,5 +1,5 @@
 body {
   margin: 0;
-  background-image: url("/star-wars-background.jpg");
+  background-image: url("https://rohanbhatia96.github.io/star-wars-intro-react-p5/star-wars-background.jpg");
   background-repeat: repeat;
 }
