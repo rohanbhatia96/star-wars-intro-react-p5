@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,+CAAkD,CAClD,wBACF","file":"main.cd1b03fe.chunk.css","sourcesContent":["body {\n  margin: 0;\n  background-image: url(\"/star-wars-background.jpg\");\n  background-repeat: repeat;\n}\n"]}

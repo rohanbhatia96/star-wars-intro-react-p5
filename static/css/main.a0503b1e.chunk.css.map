@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,uGAA0G,CAC1G,wBACF","file":"main.a0503b1e.chunk.css","sourcesContent":["body {\n  margin: 0;\n  background-image: url(\"https://rohanbhatia96.github.io/star-wars-intro-react-p5/star-wars-background.jpg\");\n  background-repeat: repeat;\n}\n"]}
