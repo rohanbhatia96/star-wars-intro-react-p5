@@ -6,7 +6,7 @@ import {
   StyledHeading,
   HeadingContainer
 } from "./components/StyledComponents";
-function App() {
+const App = () => {
   const [isStarted, setIsStarted] = useState(false);
   const [swTitle, setSwTitle] = useState("");
   const [swSummary, setSwSummary] = useState("");
