@@ -1,12 +1,23 @@
-## What Is The Project?
+# Star Wars Intro Generator
 
-This is a Star Wars intro crawler generator. 
+## What is the project?
 
-Enter your desired title and summary and generate the crawling intro text just like a star wars movie. 
+This is a Star Wars intro crawler generator. Enter your desired title and summary and generate the crawling intro text just like a star wars movie.
 
-## Link Of The Functional Project
+I made this because I love Star Wars. I also wrote a blog post on how to make this app using react and p5.js.
 
-[Star Wars Crawling Intro Generator Built With React and P5](https://rohanbhatia96.github.io/star-wars-intro-react-p5/)
+## Links to the project and blog post
+
+[View the website in action here](https://rohanbhatia96.github.io/star-wars-intro-react-p5/)\
+[Read the blog post here](https://therohanbhatia.com/blog/star-wars-intro-generator-react-p5/)
+
+## Technologies and libraries used
+
+1. React
+2. P5.js
+3. Formik
+4. Yup
+5. Styled Components
 
 ## Web App Screenshots
 
@@ -15,4 +26,3 @@ Enter your desired title and summary and generate the crawling intro text just l
 ![Screenshot from 2020-03-28 18 06 16](https://user-images.githubusercontent.com/20585043/77823230-6d4e6300-711f-11ea-9557-7eae18b39e32.png)
 
 ![Screenshot from 2020-03-28 18 06 26](https://user-images.githubusercontent.com/20585043/77823234-793a2500-711f-11ea-8a28-98cfbb4fecbe.png)
-
